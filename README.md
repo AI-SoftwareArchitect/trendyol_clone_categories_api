@@ -1,0 +1,1 @@
+# trendyol_clone_categories_api
